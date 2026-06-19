@@ -16,7 +16,7 @@ I oversee, maintain, and enhance ERP and POS systems at the intersection of reta
 
 Graduated with distinction (Summa Cum Laude) from East Delta University and holds an MSc from TU Hamburg with a thesis in speech emotion recognition using deep learning.
 
-> *500+ LinkedIn connections · Published researcher · Bilingual professional (EN / DE)*
+> Published researcher · Bilingual professional (EN / DE)*
 
 ---
 
@@ -26,19 +26,17 @@ Graduated with distinction (Summa Cum Laude) from East Delta University and hold
 
 `Product Owner · ERP & POS` &nbsp;|&nbsp; *2023 – Present*
 - Owns the product roadmap for ERP (Mago / MagoCloud) and POS (TCPOS) systems
-- Leads ERP migration planning and evaluation, including transition to SAP S/4HANA
+- Leads ERP migration planning and evaluation.
 - Oversees PAYONE payment data processing and reconciliation workflows
-- Manages concession reporting, EC terminal data integration, and SPO discrepancy analysis
-- Works closely with Adesso as consulting partner on SAP architecture
+- Manages concession reporting, EC terminal data integration, and Promotional Offer discrepancy analysis
 
 `System Specialist (Engineer)` &nbsp;|&nbsp; *11/2022 – 2023*
-- Led cross-functional teams delivering complex IT projects with a 20% uplift in operational efficiency
+- Led cross-functional teams delivering complex IT projects in operational efficiency
 - Implemented a mobile POS system that reduced transaction time by 50%
 - Administered Active Directory, O365 environments, and network infrastructure
 
 `IT Project Manager (Working Student)` &nbsp;|&nbsp; *11/2020 – 10/2022*
 - Supported senior project managers in resource allocation and stakeholder coordination
-- Assisted end-to-end planning and execution of IT rollout projects
 
 ---
 

@@ -1,115 +1,148 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=System+Specialist+%26+IT+Project+Manager;POS+Systems+%7C+ERP+%7C+Data+Visualization;Based+in+Hamburg%2C+Germany)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=20&pause=1200&color=0D9488&center=true&vCenter=true&width=750&lines=Product+Owner+%7C+ERP+%26+POS+Systems;IT+Systems+%7C+Data+Reporting+%7C+Project+Management;MSc+Information+%26+Communication+Systems%2C+TU+Hamburg;Hamburg%2C+Germany)](https://git.io/typing-svg)
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anonnya_Banerjee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anonnya-banerjee)
+[![Email](https://img.shields.io/badge/Email-anonnyabanerjee95@ymail.com-0D9488?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anonnyabanerjee95@ymail.com)
+[![TUHH](https://img.shields.io/badge/TU_Hamburg-MSc_ICS-1E293B?style=for-the-badge&logo=academia&logoColor=white)](https://www.tuhh.de)
+
+</div>
 
 ---
 
-## Background
+## About
 
-I build and operate IT systems at the intersection of retail technology, data reporting, and infrastructure engineering.
-MSc Information & Communication Systems, TU Hamburg.
-Based in Hamburg, Germany.
+I oversee, maintain, and enhance ERP and POS systems at the intersection of retail technology, operational data, and IT infrastructure. My work spans system architecture, cross-functional project delivery, and business intelligence — currently focused on airport travel retail at smartseller across multiple German airports.
+
+Graduated with distinction (Summa Cum Laude) from East Delta University and holds an MSc from TU Hamburg with a thesis in speech emotion recognition using deep learning.
+
+> *500+ LinkedIn connections · Published researcher · Bilingual professional (EN / DE)*
 
 ---
 
-## Work Experience
+## Experience
 
-**smartseller GmbH & Co. KG (11/2022 – Present)** — System Specialist (Engineer)
+**smartseller GmbH & Co. KG — Hamburg, Germany**
 
-- Led cross-functional teams to deliver complex IT projects,
-  resulting in a 20% increase in operational efficiency
-- Implemented a mobile POS system reducing transaction time by 50%
-- Managing PAYONE payment data processing, concession reporting,
-  and ERP system operations (Mago / MagoCloud)
+`Product Owner · ERP & POS` &nbsp;|&nbsp; *2023 – Present*
+- Owns the product roadmap for ERP (Mago / MagoCloud) and POS (TCPOS) systems
+- Leads ERP migration planning and evaluation, including transition to SAP S/4HANA
+- Oversees PAYONE payment data processing and reconciliation workflows
+- Manages concession reporting, EC terminal data integration, and SPO discrepancy analysis
+- Works closely with Adesso as consulting partner on SAP architecture
 
-**smartseller GmbH & Co. KG (11/2020 – 10/2022)** — IT Project Manager (Working Student)
+`System Specialist (Engineer)` &nbsp;|&nbsp; *11/2022 – 2023*
+- Led cross-functional teams delivering complex IT projects with a 20% uplift in operational efficiency
+- Implemented a mobile POS system that reduced transaction time by 50%
+- Administered Active Directory, O365 environments, and network infrastructure
 
-- Assisted in the planning and execution of IT projects
-- Supported senior project managers in resource allocation
-  and stakeholder management
+`IT Project Manager (Working Student)` &nbsp;|&nbsp; *11/2020 – 10/2022*
+- Supported senior project managers in resource allocation and stakeholder coordination
+- Assisted end-to-end planning and execution of IT rollout projects
 
-**Frutania GmbH (10/2019 – 01/2020)** — Researcher, Groupwork Master Students
+---
 
-- Conducted data analysis and presented findings to the team
+**Frutania GmbH — Hamburg, Germany**
 
-**Cheesecake Technologies (06/2016 – 09/2018)** — Project Leader, Research & Development
-*Chittagong, Bangladesh*
+`Researcher · Groupwork Master Students` &nbsp;|&nbsp; *10/2019 – 01/2020*
+- Conducted structured data analysis and presented findings to cross-disciplinary teams
 
-- Led a team of researchers in developing new technologies
-- Coordinated with cross-functional teams to ensure
-  project alignment with company goals
+---
+
+**Cheesecake Technologies — Chittagong, Bangladesh**
+
+`Project Leader · Research & Development` &nbsp;|&nbsp; *06/2016 – 09/2018*
+- Led a team of researchers in developing new technology products
+- Coordinated across functions to align project delivery with company strategy
+- First-authored research papers published at peer-reviewed conferences
 
 ---
 
 ## Education
 
-**Hamburg University of Technology (TUHH)** — MSc Information & Communication Systems (2019–2023)
-
+**Hamburg University of Technology (TUHH)** &nbsp;·&nbsp; Hamburg &nbsp;·&nbsp; *2019 – 2023*
+MSc Information & Communication Systems &nbsp;·&nbsp; Grade: 2.10
 - Major: Secure & Dependable IT Systems
-- Thesis: Enhancing the Quality of Speech Emotion Recognition
-  Using Data Augmentation & Feature Extraction Methods
-- Grade: 2.10
+- Thesis: *Enhancing the Quality of Speech Emotion Recognition Using Data Augmentation & Feature Extraction Methods*
 
-**East Delta University (EDU)** — BSc Computer Science & Engineering (2014–2018)
-*Chittagong, Bangladesh*
-
-- Thesis: Significance of Attribute Selection in the
-  Classification of Chronic Renal Disease
-- Grade: 1.10
+**East Delta University (EDU)** &nbsp;·&nbsp; Chittagong, Bangladesh &nbsp;·&nbsp; *2014 – 2018*
+BSc Computer Science & Engineering &nbsp;·&nbsp; Grade: 1.10 · Summa Cum Laude
+- Thesis: *Significance of Attribute Selection in the Classification of Chronic Renal Disease*
 
 ---
 
 ## Tech Stack
 
-**Data & Reporting**
+**Data & Business Intelligence**
 
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://tableau.com)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](https://postgresql.org)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=1E293B)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0D9488?style=flat-square&logo=databricks&logoColor=white)
 
-**IT & Systems**
+**ERP, POS & IT Systems**
 
-[![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat&logo=microsoft&logoColor=white)](https://microsoft.com)
-[![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat&logo=microsoftoffice&logoColor=white)](https://microsoft.com)
-[![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=white)](https://sap.com)
-[![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)](https://salesforce.com)
+![SAP](https://img.shields.io/badge/SAP_S%2F4HANA-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 
-**Project Management**
+**Project & Product Management**
 
-[![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)](https://atlassian.com/jira)
-[![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)](https://trello.com)
-[![Microsoft Project](https://img.shields.io/badge/MS_Project-217346?style=flat&logo=microsoft&logoColor=white)](https://microsoft.com)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
+![MS Project](https://img.shields.io/badge/MS_Project-217346?style=flat-square&logo=microsoft&logoColor=white)
 
-**Design & Creative**
+**Research & ML (Academic)**
 
-[![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)](https://adobe.com)
-[![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)](https://adobe.com)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F79231?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**Creative & Design**
+
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+
+---
+
+## Research & Publications
+
+Published first-author work at peer-reviewed conferences during BSc studies at East Delta University, with research focus areas including:
+
+- Machine learning for classification tasks (chronic renal disease attribute selection)
+- Speech emotion recognition using CNNs and data augmentation
+- Internet of Things · Data Science
+
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=dNLAbzgAAAAJ)
 
 ---
 
 ## Certifications
 
-| Certificate | Year |
-|---|---|
-| Machine Learning (Online) | 2020 |
-| Technical Support Fundamentals (Online) | 2020 |
-| Data Visualisation with Tableau (Online) | 2020 |
-| Machine Learning for Microsoft Azure (Online) | 2020 |
+| Certificate | Platform | Year |
+|---|---|---|
+| Machine Learning | Online | 2020 |
+| Technical Support Fundamentals | Google / Online | 2020 |
+| Data Visualisation with Tableau | Online | 2020 |
+| Machine Learning for Microsoft Azure | Microsoft / Online | 2020 |
 
 ---
 
 ## Languages
 
-| Language | Level |
+| Language | Proficiency |
 |---|---|
 | Bengali | Native |
-| English | Fluent (C2) |
-| Hindi | Fluent (C2) |
-| German | Beginner (A2) |
-| Spanish | Beginner (A1) |
+| English | Fluent · C2 |
+| Hindi | Fluent · C2 |
+| German | Beginner · A1 |
+| Spanish | Beginner · A1 |
 
 ---
 
-## Connect
+<div align="center">
+  
+*Hamburg · Open to collaboration in IT systems, ERP/POS product management, and data reporting*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anonnyabanerjee95@ymail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+</div>

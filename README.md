@@ -33,11 +33,12 @@ Graduated with distinction (Summa Cum Laude) from East Delta University and hold
 **smartseller GmbH & Co. KG — Hamburg, Germany**
 
 `Product Owner · ERP & POS` &nbsp;|&nbsp; *2025 – Present*
-- Owns the product roadmap for ERP (Mago / MagoCloud) and POS (TCPOS) systems
-- Leads ERP migration planning and evaluation, including transition to SAP S/4HANA
-- Oversees PAYONE payment data processing and reconciliation workflows
-- Manages concession reporting, EC terminal data integration, and SPO discrepancy analysis
-- Works closely with Adesso as consulting partner on SAP architecture
+- Own ERP/POS product roadmap and drive system enhancements aligned with business priorities
+- Lead data validation, reconciliation, and reporting workflows across sales, payment, inventory, and fiscal processes
+- Manage payment integration and transaction matching to ensure data accuracy across business systems
+- Investigate promotional, and transactional discrepancies through root-cause analysis
+- Translate business needs into scalable system improvements, process changes, and functional requirements
+- Drive automation, data quality, and process optimization across business-critical platforms
 
 `System Specialist (Engineer)` &nbsp;|&nbsp; *11/2022 – 2025*
 - Led cross-functional teams delivering complex IT projects with a 20% uplift in operational efficiency

@@ -24,13 +24,13 @@ Graduated with distinction (Summa Cum Laude) from East Delta University and hold
 
 **smartseller GmbH & Co. KG — Hamburg, Germany**
 
-`Product Owner · ERP & POS` &nbsp;|&nbsp; *2023 – Present*
+`Product Owner · ERP & POS` &nbsp;|&nbsp; *2025 – Present*
 - Owns the product roadmap for ERP (Mago / MagoCloud) and POS (TCPOS) systems
 - Leads ERP migration planning and evaluation.
 - Oversees PAYONE payment data processing and reconciliation workflows
 - Manages concession reporting, EC terminal data integration, and Promotional Offer discrepancy analysis
 
-`System Specialist (Engineer)` &nbsp;|&nbsp; *11/2022 – 2023*
+`System Specialist (Engineer)` &nbsp;|&nbsp; *11/2022 – 2025*
 - Led cross-functional teams delivering complex IT projects in operational efficiency
 - Implemented a mobile POS system that reduced transaction time by 50%
 - Administered Active Directory, O365 environments, and network infrastructure

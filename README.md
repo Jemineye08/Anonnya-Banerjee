@@ -1,7 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=20&pause=1200&color=0D9488&center=true&vCenter=true&width=750&lines=Product+Owner+%7C+ERP+%26+POS+Systems;IT+Systems+%7C+Data+Reporting+%7C+Project+Management;MSc+Information+%26+Communication+Systems%2C+TU+Hamburg;Hamburg%2C+Germany)](https://git.io/typing-svg)
-
 <div align="center">
-  
+
+# Anonnya Banerjee
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=18&pause=1200&color=0D9488&center=true&vCenter=true&width=750&lines=Product+Owner+%7C+ERP+%26+POS+Systems;IT+Systems+%7C+Data+Reporting+%7C+Project+Management;MSc+Information+%26+Communication+Systems%2C+TU+Hamburg)](https://git.io/typing-svg)
+
+![Location](https://img.shields.io/badge/📍_Hamburg,_Germany-1E293B?style=flat-square&logoColor=white)
+&nbsp;
+![Open to work](https://img.shields.io/badge/Open_to_Collaboration-0D9488?style=flat-square&logoColor=white)
+
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anonnya_Banerjee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anonnya-banerjee)
 [![Email](https://img.shields.io/badge/Email-anonnyabanerjee95@ymail.com-0D9488?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anonnyabanerjee95@ymail.com)
 [![TUHH](https://img.shields.io/badge/TU_Hamburg-MSc_ICS-1E293B?style=for-the-badge&logo=academia&logoColor=white)](https://www.tuhh.de)
@@ -16,7 +24,7 @@ I oversee, maintain, and enhance ERP and POS systems at the intersection of reta
 
 Graduated with distinction (Summa Cum Laude) from East Delta University and holds an MSc from TU Hamburg with a thesis in speech emotion recognition using deep learning.
 
-> Published researcher · Bilingual professional (EN / DE)*
+> * Published researcher *
 
 ---
 
@@ -26,17 +34,19 @@ Graduated with distinction (Summa Cum Laude) from East Delta University and hold
 
 `Product Owner · ERP & POS` &nbsp;|&nbsp; *2025 – Present*
 - Owns the product roadmap for ERP (Mago / MagoCloud) and POS (TCPOS) systems
-- Leads ERP migration planning and evaluation.
+- Leads ERP migration planning and evaluation, including transition to SAP S/4HANA
 - Oversees PAYONE payment data processing and reconciliation workflows
-- Manages concession reporting, EC terminal data integration, and Promotional Offer discrepancy analysis
+- Manages concession reporting, EC terminal data integration, and SPO discrepancy analysis
+- Works closely with Adesso as consulting partner on SAP architecture
 
 `System Specialist (Engineer)` &nbsp;|&nbsp; *11/2022 – 2025*
-- Led cross-functional teams delivering complex IT projects in operational efficiency
+- Led cross-functional teams delivering complex IT projects with a 20% uplift in operational efficiency
 - Implemented a mobile POS system that reduced transaction time by 50%
 - Administered Active Directory, O365 environments, and network infrastructure
 
 `IT Project Manager (Working Student)` &nbsp;|&nbsp; *11/2020 – 10/2022*
 - Supported senior project managers in resource allocation and stakeholder coordination
+- Assisted end-to-end planning and execution of IT rollout projects
 
 ---
 

@@ -103,7 +103,7 @@ Based in Hamburg, Germany.
 | Bengali | Native |
 | English | Fluent (C2) |
 | Hindi | Fluent (C2) |
-| German | Beginner (A1) |
+| German | Beginner (A2) |
 | Spanish | Beginner (A1) |
 
 ---
